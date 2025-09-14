@@ -530,7 +530,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "pcb-bulkplate-passthrough.step",
+      "step": "pcb-bulkplate-passthrough_twoHole.step",
       "svg": "",
       "vrml": ""
     },
